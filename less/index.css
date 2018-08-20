@@ -1,1 +1,8 @@
-.box{width:100px;height:200px;text-align:center}
+.box {
+    width: 100px;
+    height: 200px
+}
+
+.center(text-x) .box:hover {
+    width: 20px
+}
